@@ -4,7 +4,8 @@ class Program
 {
     static void Main()
     {
-        int[] array = { 38, 27, 43, 3, 9, 82, 10 };
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+        int[] array = { 58, 22, 55, 8, 1, 3, 20 };
         Console.WriteLine("Mảng trước khi sắp xếp:");
         PrintArray(array);
 
@@ -65,5 +66,6 @@ class Program
             Console.Write(value + " ");
         }
         Console.WriteLine();
+        Console.ReadKey();
     }
 }

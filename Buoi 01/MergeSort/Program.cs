@@ -4,12 +4,18 @@ class Program
 {
     static void Main()
     {
+        // Đặt mã hóa console thành UTF-8 để hiển thị đúng các ký tự có dấu
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+        // Khởi tạo mảng
         int[] array = { 38, 27, 43, 3, 9, 82, 10 };
         Console.WriteLine("Mảng trước khi sắp xếp:");
         PrintArray(array);
 
+        // Thực hiện sắp xếp MergeSort
         MergeSort(array, 0, array.Length - 1);
 
+        // In mảng sau khi sắp xếp
         Console.WriteLine("Mảng sau khi sắp xếp:");
         PrintArray(array);
     }
@@ -88,5 +94,6 @@ class Program
             Console.Write(value + " ");
         }
         Console.WriteLine();
+        Console.ReadKey();
     }
 }
