@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe.config
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.pdb
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.exe
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.pdb
