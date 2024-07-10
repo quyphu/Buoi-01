@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\QuickSort\bin\Debug\QuickSort.exe.config
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\QuickSort\bin\Debug\QuickSort.exe
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\QuickSort\bin\Debug\QuickSort.pdb
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\QuickSort\obj\Debug\QuickSort.exe
+E:\LuuDuLieuSinhVien\2033210170_NguyenNgocPhuQuy\Buoi 01\QuickSort\obj\Debug\QuickSort.pdb
